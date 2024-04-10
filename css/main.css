@@ -1,0 +1,62 @@
+body { color: #353003; font-size: 9pt; font-variant: normal; line-height: 15px; background-color: #032135; background-position: center; text-align: left; }
+
+p { }
+.p1 { color: #032135; font-size: 9pt; font-family: Verdana, Arial, geneva, Helvetica, sans-serif; text-decoration: none; text-align: left; width: 233px; padding-left: 15px; }
+td { color: #192d4c; font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+h1 { color: #516462; font-size: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; padding-top: -10px; padding-bottom: 10px; }
+h2 { color: #516462; font-size: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; text-align: left; }
+h3 { color: #032135; font-size: 15px; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: italic; line-height: 16px; text-decoration: none; }
+h4 { color: #032135; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; }
+h5 { color: #516462; font-size: 18px; text-align: center; padding-top: 20px; }
+h6 { color: #032135; font-size: 21px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-style: oblique; margin: 0; padding: 0; }
+.year { color: #032135; font-size: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: oblique; text-decoration: underline; padding-left: 30px; }
+hr { width: 50%; border-top: 1px solid #9ba48d; }
+.glossary_term { color: #516462; font-size: 15px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 30px; text-decoration: none; padding-left: 58px; }
+.textbox { padding: 10px; border: solid 2px #9ba48d; }
+.timeline_sub { color: #516462; font-size: 15px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 30px; text-decoration: none; }
+.totop { color: #345c9b; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; text-align: right; padding-top: 30px; }
+.30ptpadding { width: 420px; margin-top: 30pt; margin-bottom: 30pt; padding-right: 85px; padding-left: 85px; border-bottom: 1px solid #032135; }
+a:link { color: #345c9b ; text-decoration: none; }
+
+a:visited { color: #345c9b; text-decoration: none; }
+
+a:hover { color: #5b6d68 ; text-decoration: underline; }
+a:active { text-decoration: none; }
+.img_box { color: #032135; font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; background-color: #9ba48d; text-decoration: none; text-align: left; vertical-align: top; position: absolute; top: 40px; left: 320px; width: auto; margin-right: 25px; padding: 4px; border-color: #9ba48d; border-style: solid; border-width: 1px 1px 2px; }
+.subnav { padding: 4px; border: solid 1px #032135; }
+.navigation { color: #516462; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; padding-bottom: 2px; padding-left: 10px; }
+.main_navigation { font-size: 9px; font-weight: bold; text-decoration: none; text-align: center; margin-top: 5px; padding-left: 10px; }
+.main_navigation a:link { color: #516462; text-decoration: none; }
+.learnheader { color: #032135; font-size: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.fineprint { color: #032135; font-size: 7pt; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 9pt; text-decoration: none; }
+.main_navigation a:visited { color: #516462; text-decoration: none; }
+.main_navigation a:hover { color: #fff; text-decoration: none; }
+.credit { color: #e8e7e6; font-size: 8px; padding-right: 15px; padding-bottom: 7px; border-top: 1px ridge #fff; }
+.img_link { border-color: #516462; border-width: 1px; }
+.imgwindow { color: #032135; font-size: 7px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 8px; background-color: #9ba48d; text-decoration: none; padding: 2px; border-color: #9ba48d; border-style: solid; border-width: 2px 2px 4px; }
+.learnmore { color: #032135; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; width: 200px; margin-top: 15px; margin-bottom: 15px; margin-left: 15px; padding: 2px 8px 8px; border-color: #9ba48d; border-style: solid; border-width: 7px 3px 3px; }
+.learnmorelink { padding-left: 20px; }
+.ts { color: #516462; font-size: 12pt; font-style: oblique; font-variant: small-caps; text-transform: capitalize; text-align: left; }
+.within { color: #032135; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; text-decoration: none; position: absolute; top: 420px; left: 320px; width: 300px; padding-left: 15px; }
+.img_link a:link { color: blue; border-color: #516462; border-width: 1px; }
+.img_link a:visited { text-decoration: none; border-color: #516462; border-width: 1px; }
+.img_link a:hover { text-decoration: none; border-color: #fff; border-width: 1px; }
+.gfx_link { }
+gfx_link a:link { text-decoration: none; margin: 2px; }
+gfx_link a:visited { text-decoration: none; margin: 2px; }
+gfx_link a:hover { background-color: #445d69; text-decoration: none; margin: 2px; }
+.credit a:link { color: #fff; }
+.credit a:visited { color: #9ba48d; }
+.credit a:hover { color: #181833; text-decoration: none; }
+.navbar { background-color: #9ba48d; margin-top: 6px; margin-bottom: 3px; padding-top: 3px; }
+.pageheader { color: #fff; font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif; text-align: center; margin-top: 10pt; }
+.header_grph { margin-top: 15px; margin-bottom: 10px; }
+.footer_grphic { margin-top: 10px; }
+.artistnav { position: absolute; top: 555px; left: 350px; }
+.ts a:link { color: #516462; font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: oblique; font-variant: small-caps; text-transform: capitalize; text-align: left; }
+.body_block { background-color: #bcc5ae; word-spacing: 1px; letter-spacing: 3px; width: 100%; margin-top: 3px; margin-bottom: 3px; padding: 4px; border: solid 2px #516462; }
+.ts a:visited { color: #516462; font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: oblique; font-variant: small-caps; text-align: left; text-transform: capitalize; }
+.ts a:hover { color: #9ba48d; font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: oblique; font-variant: small-caps; text-align: left; text-transform: capitalize; }
+#gallerypg { background-color: #e9e8e7; text-align: center; width: 600px; height: inherit; margin-left: 5px; padding: 10px; }
+#gallerybox { background-image: url(../images/gallery_bg.jpg); background-repeat: no-repeat; background-position: left bottom; text-align: left; vertical-align: text-bottom; width: 102px; height: 230px; float: left; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; padding-top: 2px; padding-right: 2px; padding-left: 2px; border-color: #9ba48d; border-style: solid; border-width: 2px 2px 3px; }
+#links_txt { width: 610px; height: 100%; margin: 10px; padding-top: 10px; padding-bottom: 15px; }
